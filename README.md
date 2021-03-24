@@ -39,7 +39,15 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](your-link-here)
+
+Winning
+![](https://github.com/will-chung/simon-game/blob/main/winning.gif)
+
+Losing
+![](https://github.com/will-chung/simon-game/blob/main/losing.gif)
+
+Timer 
+![](https://github.com/will-chung/simon-game/blob/main/timer.gif)
 
 ## Reflection Questions
 
